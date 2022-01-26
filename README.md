@@ -1,6 +1,6 @@
 # wisestep-assignment
 
-### demo : [Single User Login System](https://react-user-login.herokuapp.com)
+### demo : [](https://react-user-login.herokuapp.com)
 
 # Requirements
 
